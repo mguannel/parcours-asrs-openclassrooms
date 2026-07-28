@@ -1,6 +1,6 @@
 # Parcours Administrateur systèmes, réseaux et sécurité — OpenClassrooms
 
-R�capitulatif des projets réalisés et validés dans le cadre du parcours
+Récapitulatif des projets réalisés et validés dans le cadre du parcours
 **Administrateur d'infrastructures sécurisées** (OpenClassrooms, titre RNCP niveau 6).
 
 Chaque projet part d'un scénario d'entreprise fictive et donne lieu à des livrables
